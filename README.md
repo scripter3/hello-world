@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-Hello nothing to know about me.
+You should know nothing about me.
